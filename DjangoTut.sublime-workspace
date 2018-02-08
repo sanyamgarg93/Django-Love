@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"django"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"comment",
+				"commentID"
+			],
+			[
+				"notifi",
+				"notificationSnap"
+			],
+			[
+				"no",
+				"notification"
+			],
+			[
+				"child",
+				"childSnap"
+			],
+			[
+				"n",
+				"notificationSnap"
+			],
+			[
+				"postV",
+				"postVote"
+			],
+			[
+				"postVote",
+				"postVoteFunction"
+			],
+			[
+				"send",
+				"sender_FB_ID"
+			],
+			[
+				"sen",
+				"sender_FB_ID"
+			],
+			[
+				"notfi",
+				"notificationInfo"
+			],
+			[
+				"chil",
+				"childSnap"
+			],
+			[
+				"tagg",
+				"tagged_in_comment"
+			],
+			[
+				"postDele",
+				"postDeletedFunction"
+			],
+			[
+				"conversat",
+				"conversationID"
+			],
+			[
+				"conver",
+				"conversationID"
+			],
+			[
+				"postC",
+				"postCreatedFunction"
+			],
+			[
+				"notifica",
+				"notificationInfo"
+			],
+			[
+				"noti",
+				"notificationInfo"
+			],
+			[
+				"rece",
+				"receiver_FB_ID"
+			],
+			[
+				"commen",
+				"commentID"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"tagge",
+				"tagged_user_ID"
+			],
+			[
+				"commentor",
+				"commentor_FB_ID"
+			],
+			[
+				"commentI",
+				"commentInfo"
+			],
+			[
+				"chi",
+				"childSnap"
+			],
+			[
+				"vote",
+				"vote_creator_ID"
+			],
+			[
+				"commentV",
+				"commentVoteFunction"
+			],
+			[
+				"commentD",
+				"commentDeleted"
+			],
+			[
+				"commentDe",
+				"commentDeletedFunction"
+			],
+			[
+				"post",
+				"post_creator_ID"
+			],
+			[
+				"conv",
+				"conversationID"
+			],
+			[
+				"conve",
+				"conversationID"
+			],
+			[
+				"Notifica",
+				"NotificationFeed"
+			],
+			[
+				"comme",
+				"commentID"
+			],
+			[
+				"conversa",
+				"conversationID"
+			],
+			[
+				"user",
+				"user_ID_map"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"commentCrea",
+				"commentCreatedFunction"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"thumbFil",
+				"thumbFilePath"
+			],
+			[
+				"cons",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sanyamgarg/Documents/Projects/Truebil/DjangoTut"
+	],
+	"file_history":
+	[
+		"/Users/sanyamgarg/Documents/Projects/Truebil/DjangoTut/DjangoTut/urls.py",
+		"/Users/sanyamgarg/Documents/Projects/Truebil/DjangoTut/polls/urls.py",
+		"/Users/sanyamgarg/Documents/Projects/Truebil/DjangoTut/polls/views.py",
+		"/Users/sanyamgarg/Documents/Projects/Truebil/DjangoTut/DjangoTut/settings.py",
+		"/Users/sanyamgarg/Documents/Projects/Truebil/DjangoTut/polls/models.py",
+		"/Users/sanyamgarg/Documents/Projects/Truebil/DjangoTut/DjangoTut/__init__.py",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/commentDeleted.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/commentVote.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/index.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/READ_ME_NOTIFICATIONS.txt",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/commentCreated.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/createNotificationList.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/sendPushNotification.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/postVote.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/postDeleted.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/postCreated.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/createNotificationFromLike.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/addNewConversationInTree.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/removeConversationPost.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/removeConversationFromTree.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/createNotificationFromTag.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/commentUserTag.js",
+		"/Users/sanyamgarg/Documents/Projects/Test/main.cpp",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/India/CityBoundaryToOsmImage.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/India/createShpFile.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/India/GetCityBoundaries.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/CombineOSMFiles.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/Combine_With_OSM.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/code.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/ET_Tree_test.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/test.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/Nashik/FetchFromOSM.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/Nashik/extract_nashik_image.py",
+		"/Users/sanyamgarg/Documents/Projects/TileStitching/Nashik/combine_pred_osm.py",
+		"/Users/sanyamgarg/Documents/Projects/OSMImport/main.py",
+		"/Users/sanyamgarg/Documents/Projects/OSMImport/test1.py",
+		"/Users/sanyamgarg/Documents/Projects/OSMImport/UpdateOSM.py",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/createNotificationFromComment.js",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/createLowerCaseName.js",
+		"/Users/sanyamgarg/Documents/Projects/Happenings_DEV_Old/functions/package.json",
+		"/Users/sanyamgarg/Documents/Projects/Happenings_DEV_Old/firebase.json",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/package.json",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/functions/package-lock.json",
+		"/Users/sanyamgarg/Documents/Projects/Droppin_DEV/firebase.json",
+		"/Users/sanyamgarg/Documents/Projects/Happenings_PROD_Old/functions/prod-service-account-credentials.json",
+		"/Users/sanyamgarg/Documents/Projects/Happenings_PROD_Old/functions/package.json",
+		"/Users/sanyamgarg/Documents/Projects/Happenings_PROD/functions/index.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DjangoTut.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
